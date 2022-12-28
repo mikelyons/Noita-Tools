@@ -1,4 +1,5 @@
-# Noita-Tools
+# Original Readme
+## Noita-Tools
 These are some tools and scripts I have created for the Early-Access Roguelike, Noita by Nolla Games.
 Please feel free to use them and let me know if you have any questions.
 
@@ -8,3 +9,8 @@ There are 3 different save slots you can select, be aware that your selection is
 
 I was inspired to start this after seeing this post on reddit https://www.reddit.com/r/noita/comments/da5pwb/scripts_to_backuprestore_your_saves/
 I am not affiliated with Nolla games and these tools are free and open source for any non-commercial use.
+## end Original Readme
+
+# possibilities
+
+If you're on Windows, you can make a shortcut to the batch file (or any file!) and if you open the properties of the shortcut you can modify "hot key" to be your keybind. Thanks for reminding me about this!
